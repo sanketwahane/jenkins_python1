@@ -1,1 +1,1 @@
- bye jenkins world
+print("bye jenkins")
