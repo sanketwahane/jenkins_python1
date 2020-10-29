@@ -1,1 +1,1 @@
-jenkins world
+print("jenkins world is fun")
